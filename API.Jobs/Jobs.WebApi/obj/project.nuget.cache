@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1XGje6hRuOAaX/F9qkHYKU87FCYxPoBayI3hlGMJOMkkk43yGqz1tgt+6vfvM1Daat3mCVnCWxH9LldM6NwSDQ==",
+  "dgSpecHash": "6rGm1GCJU8cMXWKqhWXegJmkffafg6emhF/MFl74tZBKxxhmjHLuAf8xYf7DZxV4tCGgZabc1YTAH4icv60R/Q==",
   "success": true,
-  "projectFilePath": "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.WebApi\\Jobs.WebApi.csproj",
+  "projectFilePath": "D:\\Projects\\gofrilo_Cube_Places\\API.Jobs\\Jobs.WebApi\\Jobs.WebApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\walte\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\walte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\walte\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }

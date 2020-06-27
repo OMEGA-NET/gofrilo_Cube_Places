@@ -24,3 +24,16 @@ G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj
 G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj.CopyComplete
 G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.dll
 G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.pdb
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\DataOrigin\dbJobs.json
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.deps.json
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.dll
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.pdb
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Models.dll
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Models.pdb
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csprojAssemblyReference.cache
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.AssemblyInfoInputs.cache
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.AssemblyInfo.cs
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj.CoreCompileInputs.cache
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj.CopyComplete
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.dll
+D:\Projects\gofrilo_Cube_Places\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.pdb
