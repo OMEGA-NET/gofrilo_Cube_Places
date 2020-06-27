@@ -1,0 +1,9 @@
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\bin\Debug\netcoreapp3.1\Jobs.Dtos.deps.json
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\bin\Debug\netcoreapp3.1\Jobs.Dtos.dll
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\bin\Debug\netcoreapp3.1\Jobs.Dtos.pdb
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\obj\Debug\netcoreapp3.1\Jobs.Dtos.csprojAssemblyReference.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\obj\Debug\netcoreapp3.1\Jobs.Dtos.AssemblyInfoInputs.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\obj\Debug\netcoreapp3.1\Jobs.Dtos.AssemblyInfo.cs
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\obj\Debug\netcoreapp3.1\Jobs.Dtos.csproj.CoreCompileInputs.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\obj\Debug\netcoreapp3.1\Jobs.Dtos.dll
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Dtos\obj\Debug\netcoreapp3.1\Jobs.Dtos.pdb

@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "5ef25edf628a2f1661490a16",
+    "code": "af41008b-37fb-4396-9427-538afbcc5972",
+    "name": "Intel J1900",
+    "type": 1,
+    "description": "170mm x 170mm refrigeración Mini-ITX Fanless POS Motherboard...",
+    "price": 284.89,
+    "picture": "https://image.made-in-china.com/201f0j10vTEUDaWmqHrZ/Intel-J1900-Fanless-6-COM-Mini-Itx-POS-Motherboard.webp"
+
+  },
+  {
+    "_id": "5ef25edfe4c55c7203be3e41",
+    "code": "a304a082-297c-4c87-ab95-ba6d66ef2c4d",
+    "name": "Intel H81-Plus",
+    "type": 1,
+    "description": "2017 Venta caliente de alta calidad de la placa base Intel H81-Plus LGA 1150 cuenta con WiFi&el puerto de SSD&GB LAN equipo OEM de la motherboard",
+    "price": 171.35,
+    "picture": "https://image.made-in-china.com/201f0j10oFntIHidfWbr/2017-Hot-Sales-High-Quality-Intel-Mainboard-H81-Plus-LGA-1150-Has-WiFi-SSD-Port-GB-LAN-Computer-Motherboard-OEM.webp"
+  },
+  {
+    "_id": "5ef25edf60abdac041f49dbe",
+    "code": "07316e7e-4565-4524-93f0-831b8983dc18",
+    "name": "facial N2940 Quad Core",
+    "type": 1,
+    "description": "Equipo de reconocimiento facial N2940 Quad Core de Intel de la industria de Control de Mini PC Motherboard para Equipos Industriales",
+    "price": 325.86,
+    "picture": "https://image.made-in-china.com/201f0j10QhFGYuPqJobc/Face-Recognition-Computer-N2940-Quad-Core-Industry-Intel-Mini-PC-Control-Motherboard-for-Industrial-Equipment.webp"
+  },
+  {
+    "_id": "5ef25edfa596e77e5820e12d",
+    "code": "c9abfc59-3806-4094-a57d-9d3b034483c1",
+    "name": "procesador i7 Intel Chipset ",
+    "type": 1,
+    "description": "El apoyo del procesador i7 Intel Chipset de placa base para escritorio (X58-1366)",
+    "price": 284.22,
+    "picture": "https://image.made-in-china.com/201f0j10ZHQUFSujhIoY/Support-I7-Processor-Intel-Chipset-Motherboard-for-Desktop-X58-1366-.webp"
+  }  
+]

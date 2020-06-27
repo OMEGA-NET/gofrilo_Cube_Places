@@ -1,0 +1,18 @@
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.deps.json
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.dll
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.pdb
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.csprojAssemblyReference.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.AssemblyInfoInputs.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.AssemblyInfo.cs
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.csproj.CoreCompileInputs.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.dll
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.pdb
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.deps.json
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.dll
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.pdb
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.csprojAssemblyReference.cache
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.AssemblyInfoInputs.cache
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.AssemblyInfo.cs
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.csproj.CoreCompileInputs.cache
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.dll
+G:\Projects_OmegaNet\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.pdb

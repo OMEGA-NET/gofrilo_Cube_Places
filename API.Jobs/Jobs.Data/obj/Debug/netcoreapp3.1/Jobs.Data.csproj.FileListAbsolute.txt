@@ -1,0 +1,26 @@
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.deps.json
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.dll
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.pdb
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csprojAssemblyReference.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.AssemblyInfoInputs.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.AssemblyInfo.cs
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj.CoreCompileInputs.cache
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.dll
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.pdb
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Models.dll
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Models.pdb
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj.CopyComplete
+D:\OMEGANET JOBS\APIJOBS\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\DataOrigin\dbJobs.json
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\DataOrigin\dbJobs.json
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.deps.json
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.dll
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Data.pdb
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Models.dll
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\bin\Debug\netcoreapp3.1\Jobs.Models.pdb
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csprojAssemblyReference.cache
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.AssemblyInfoInputs.cache
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.AssemblyInfo.cs
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj.CoreCompileInputs.cache
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.csproj.CopyComplete
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.dll
+G:\Projects_OmegaNet\API.Jobs\Jobs.Data\obj\Debug\netcoreapp3.1\Jobs.Data.pdb

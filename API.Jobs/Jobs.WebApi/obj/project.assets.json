@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "System.Text.Json/4.7.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        }
+      },
+      "Jobs.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Jobs.Models": "1.0.0",
+          "System.Text.Json": "4.7.2"
+        },
+        "compile": {
+          "bin/placeholder/Jobs.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jobs.Data.dll": {}
+        }
+      },
+      "Jobs.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Jobs.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jobs.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Text.Json/4.7.2": {
+      "sha512": "TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "type": "package",
+      "path": "system.text.json/4.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/netcoreapp3.0/System.Text.Json.dll",
+        "lib/netcoreapp3.0/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.4.7.2.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Jobs.Data/1.0.0": {
+      "type": "project",
+      "path": "../Jobs.Data/Jobs.Data.csproj",
+      "msbuildProject": "../Jobs.Data/Jobs.Data.csproj"
+    },
+    "Jobs.Models/1.0.0": {
+      "type": "project",
+      "path": "../Jobs.Models/Jobs.Models.csproj",
+      "msbuildProject": "../Jobs.Models/Jobs.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Jobs.Data >= 1.0.0",
+      "Jobs.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\walte\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.WebApi\\Jobs.WebApi.csproj",
+      "projectName": "Jobs.WebApi",
+      "projectPath": "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.WebApi\\Jobs.WebApi.csproj",
+      "packagesPath": "C:\\Users\\walte\\.nuget\\packages\\",
+      "outputPath": "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.WebApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\walte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.Data\\Jobs.Data.csproj": {
+              "projectPath": "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.Data\\Jobs.Data.csproj"
+            },
+            "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.Models\\Jobs.Models.csproj": {
+              "projectPath": "G:\\Projects_OmegaNet\\API.Jobs\\Jobs.Models\\Jobs.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
