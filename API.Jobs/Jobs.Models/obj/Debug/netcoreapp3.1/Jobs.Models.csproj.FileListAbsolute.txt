@@ -1,0 +1,9 @@
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.deps.json
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.dll
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\bin\Debug\netcoreapp3.1\Jobs.Models.pdb
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.csprojAssemblyReference.cache
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.AssemblyInfoInputs.cache
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.AssemblyInfo.cs
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.csproj.CoreCompileInputs.cache
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.dll
+D:\Projects\APIJOBS\API.Jobs\Jobs.Models\obj\Debug\netcoreapp3.1\Jobs.Models.pdb
