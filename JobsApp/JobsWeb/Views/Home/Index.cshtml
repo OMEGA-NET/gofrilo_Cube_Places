@@ -1,0 +1,309 @@
+﻿@model List<JobsWeb.Models.Product>
+    <div id="page-head">
+
+        <div class="pad-all text-center">
+            <h3>JOBS WEB - PLACAS MADRES</h3>
+            <p>Registro de placas madres a nivel departamental</p>
+        </div>
+    </div>
+
+
+    <!--Page content-->
+    <!--===================================================-->
+    <div id="page-content">
+
+        <div class="row">
+            <div class="col-lg-7">
+
+                <!--Network Line Chart-->
+                <!--===================================================-->
+                <div id="demo-panel-network" class="panel">
+                    <div class="panel-heading">
+                        <div class="panel-control">
+                            <button id="demo-panel-network-refresh" class="btn btn-default btn-active-primary" data-toggle="panel-overlay" data-target="#demo-panel-network"><i class="demo-psi-repeat-2"></i></button>
+                            <div class="dropdown">
+                                <button class="dropdown-toggle btn btn-default btn-active-primary" data-toggle="dropdown" aria-expanded="false"><i class="demo-psi-dot-vertical"></i></button>
+                                <ul class="dropdown-menu dropdown-menu-right">
+                                    <li><a href="#">Action</a></li>
+                                    <li><a href="#">Another action</a></li>
+                                    <li><a href="#">Something else here</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="#">Separated link</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <h3 class="panel-title">
+                            Casos diarios de sintomáticos no compatibles, compatibles y positivo
+                        </h3>
+                    </div>
+
+
+                    <!--chart placeholder-->
+                    <div class="pad-all">
+                        <div id="demo-bar-chart" style="height:250px"></div>
+                        <hr class="new-section-xs bord-no">
+                        <ul class="list-inline text-center">
+                            <li><span class="label label-info">354</span>Intel</li>
+                            <li><span class="label label-warning">74</span> Raizen</li>
+                            <li><span class="label label-danger">25</span>  Asus</li>
+                        </ul>
+                    </div>
+
+                </div>
+                <!--===================================================-->
+                <!--End network line chart-->
+
+            </div>
+            <div class="col-lg-5">
+                <div class="row">
+                    <div class="col-sm-6 col-lg-6">
+
+                        <!--Sparkline Area Chart-->
+                        <div class="panel panel-success panel-colorful">
+                            <div class="pad-all">
+                                <p class="text-lg text-semibold"><i class="demo-pli-data-storage icon-fw"></i> Vendedores</p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">14</span> Record Anterior
+                                </p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">8</span> Acumulado
+                                </p>
+                            </div>
+                            <div class="pad-top text-center">
+                                <!--Placeholder-->
+                                <div id="demo-sparkline-area" class="sparklines-full-content"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-6">
+
+                        <!--Sparkline Line Chart-->
+                        <div class="panel panel-info panel-colorful">
+                            <div class="pad-all">
+                                <p class="text-lg text-semibold">Ventas</p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">3</span> Mes Anterior
+                                </p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">18</span> Hace 7 días
+                                </p>
+                            </div>
+                            <div class="pad-top text-center">
+
+                                <!--Placeholder-->
+                                <div id="demo-sparkline-line" class="sparklines-full-content"></div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 col-lg-6">
+
+                        <!--Sparkline bar chart -->
+                        <div class="panel panel-purple panel-colorful">
+                            <div class="pad-all">
+                                <p class="text-lg text-semibold"><i class="demo-pli-basket-coins icon-fw"></i> Mayor Movimiento</p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">12</span> Placa 1
+                                </p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">44</span> Placa2
+                                </p>
+                            </div>
+                            <div class="text-center">
+
+                                <!--Placeholder-->
+                                <div id="demo-sparkline-bar" class="box-inline"></div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-6">
+
+                        <!--Sparkline pie chart -->
+                        <div class="panel panel-warning panel-colorful">
+                            <div class="pad-all">
+                                <p class="text-lg text-semibold">Menor Movimiento</p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">5</span> Placa 3
+                                </p>
+                                <p class="mar-no">
+                                    <span class="pull-right text-bold">48</span> Placa 4
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Lista de Placa</h3>
+                    </div>
+
+                    <div class="panel-body">
+                        <div class="pad-btm form-inline">
+                            <div class="row">
+                                <div class="table-toolbar-right">
+                                    <div class="form-group">
+                                        <input type="text" autocomplete="off" class="form-control" placeholder="Buscar" id="input-search">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <table id="table-Lista-Placas"
+                               class="table table-bordered table-hover toggle-circle"
+                               data-page-size="20">
+                            <thead>
+                                <tr>
+                                    <th data-sort-initial="true" data-toggle="true">Código</th>
+                                    <th>Nombre</th>
+                                    <th data-hide="phone, tablet">Tipo</th>
+                                    <th data-hide="phone, tablet">Descripción</th>
+                                    <th data-hide="phone, tablet" class="text-center">Precio</th>
+                                    <th data-hide="phone, tablet" class="text-center">Imagen</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var placa in Model)
+                                {
+                                <tr>
+                                    <td>@Html.DisplayFor(modelItem => placa.code)</td>
+                                    <td>@Html.DisplayFor(modelItem => placa.name)</td>
+                                    <td>@Html.DisplayFor(modelItem => placa.type)</td>
+                                    <td>@Html.DisplayFor(modelItem => placa.description)</td>
+                                    <td>@Html.DisplayFor(modelItem => placa.price)</td>
+                                    <td><img src="@Html.DisplayFor(modelItem => placa.picture)" alt="Placa Picture" class="img-circle img-sm"></td>
+                                </tr>                                    
+                                }
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <td colspan="10" class="footable-visible">
+                                            <div class="text-right">
+                                                <ul class="pagination">
+                                                    <li class="footable-page-arrow">
+                                                        <a data-page="first" href="#first">«</a>
+                                                    </li>
+                                                    <li class="footable-page-arrow">
+                                                        <a data-page="prev" href="#prev">‹</a>
+                                                    </li>
+                                                    <li class="footable-page">
+                                                        <a data-page="0" href="#">1</a>
+                                                    </li>
+                                                    <li class="footable-page active">
+                                                        <a data-page="1" href="#">2</a>
+                                                    </li>
+                                                    <li class="footable-page-arrow disabled">
+                                                        <a data-page="next" href="#next">›</a>
+                                                    </li>
+                                                    <li class="footable-page-arrow disabled">
+                                                        <a data-page="last" href="#last">»</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered text-center" role="document">
+            <div class="load6">
+                <div class="loader"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.flot.min.js"></script>
+    <script src="~/Scripts/jquery.flot.categories.min.js"></script>
+    <script src="~/Scripts/jquery.flot.orderBars.min.js"></script>
+    <script src="~/Scripts/jquery.flot.tooltip.min.js"></script>
+    <script src="~/Scripts/jquery.flot.resize.min.js"></script>
+    <script src="~/Scripts/bootbox.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            Grafico();
+
+        });
+
+        function Grafico() {
+            var d1 = [[0, 520], [1, 370], [2, 820], [3, 209], [4, 495], [5, 170], [6, 185], [7, 273]],
+                d2 = [[0, 85], [1, 45], [2, 58], [3, 35], [4, 95], [5, 25], [6, 65], [7, 12]],
+                d3 = [[0, 50], [1, 30], [2, 80], [3, 29], [4, 95], [5, 70], [6, 15], [7, 73]];
+
+            $.plot("#demo-bar-chart", [
+                {
+                    label: "Intel",
+                    data: d1
+                }, {
+                    label: "Raizen",
+                    data: d2
+                }, {
+                    label: "Asus",
+                    data: d3
+                }], {
+                series: {
+                    bars: {
+                        show: true,
+                        lineWidth: 0,
+                        barWidth: 0.25,
+                        align: "center",
+                        order: 1,
+                        fillColor: { colors: [{ opacity: .9 }, { opacity: .9 }] }
+                    }
+                },
+                colors: ['#03a9f4', '#ffb300', '#e3e8ee', '#8bc34a'],
+                grid: {
+                    borderWidth: 0,
+                    hoverable: true,
+                    clickable: true
+                },
+                yaxis: {
+                    ticks: 4, tickColor: 'rgba(0,0,0,.02)'
+                },
+                xaxis: {
+                    ticks: 7,
+                    tickColor: 'transparent'
+                },
+                tooltip: {
+                    show: true,
+                    content: "<div class='flot-tooltip text-center'><h5 class='text-main'>%s</h5>%y.0 </div>"
+                }
+            });
+        }
+
+        $(document).on('nifty.ready', function () {
+
+            $('#input-search').on('input', function (e) {
+                e.preventDefault();
+                table.trigger('footable_filter', { filter: $(this).val() });
+            });
+
+            var table = $("#table-Lista-Placas");
+            table.footable();
+
+            var faIcon = {
+                valid: 'fa fa-check-circle fa-lg text-success',
+                invalid: 'fa fa-times-circle fa-lg',
+                validating: 'fa fa-refresh'
+            }
+
+
+        })
+
+
+    </script>
